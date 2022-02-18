@@ -1,7 +1,7 @@
 # cprogram
 hello world program in c
 #include<stdio.h>
-int main()
+int main(void)
 {  
    printf("hello,World!");
    return 0;
